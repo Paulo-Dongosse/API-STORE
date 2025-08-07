@@ -20,13 +20,15 @@ Uma API RESTful desenvolvida com **FastAPI**, **MongoDB** e **Test-Driven Develo
 
 ## 🧪 Metodologia TDD
 
-A construção da API seguiu o ciclo do TDD:
+Esta API foi desenvolvida utilizando TDD (Test-Driven Development), escrevendo os testes antes do código. Isso garantiu:
 
-1. Escrevi os testes primeiro (cenários reais de uso)
-2. Desenvolvi o código necessário para passar nos testes
-3. Refatorei e mantive a cobertura de testes
+Maior confiabilidade e segurança no desenvolvimento
 
-Esse processo garantiu segurança no código e facilitou mudanças.
+Código mais limpo, testado e fácil de manter
+
+Facilidade para evoluir sem quebrar funcionalidades
+
+O foco esteve sempre em entregar valor real com segurança.
 
 ---
 
