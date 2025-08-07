@@ -22,11 +22,11 @@ Uma API RESTful desenvolvida com **FastAPI**, **MongoDB** e **Test-Driven Develo
 
 Esta API foi desenvolvida utilizando TDD (Test-Driven Development), escrevendo os testes antes do código. Isso garantiu:
 
--Maior confiabilidade e segurança no desenvolvimento
+- Maior confiabilidade e segurança no desenvolvimento
 
--Código mais limpo, testado e fácil de manter
+- Código mais limpo, testado e fácil de manter
 
--Facilidade para evoluir sem quebrar funcionalidades
+- Facilidade para evoluir sem quebrar funcionalidades
 
 O foco esteve sempre em entregar valor real com segurança.
 
