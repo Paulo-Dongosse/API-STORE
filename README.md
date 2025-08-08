@@ -48,5 +48,5 @@ Todas as rotas possuem validações e retornos apropriados.
 
 1. Clone o repositório:
 ```bash
-git clone https://
+git clone https://github.com/Paulo-Dongosse/API-STORE.git
 cd api-tdd-store
